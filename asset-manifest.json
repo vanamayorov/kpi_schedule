@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kpi_schedule/static/css/main.26d40234.css",
+    "main.js": "/kpi_schedule/static/js/main.407610bc.js",
+    "index.html": "/kpi_schedule/index.html",
+    "main.26d40234.css.map": "/kpi_schedule/static/css/main.26d40234.css.map",
+    "main.407610bc.js.map": "/kpi_schedule/static/js/main.407610bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d40234.css",
+    "static/js/main.407610bc.js"
+  ]
+}
