@@ -1,0 +1,22 @@
+.root {
+    @apply flex justify-center flex-col relative max-w-xs mt-8 mx-auto;
+}
+
+.btn {
+    &[type="submit"] {
+      @apply bg-blue-800;
+    }
+}
+
+.error {
+    @apply  mt-2 text-center text-blue-800;
+}
+
+.dropdown {
+    top: 55px;
+    @apply absolute p-5 bg-white text-black w-full border border-solid  border-black rounded-md;
+}
+
+.link {
+    @apply block w-full text-lg px-4 py-2 hover:bg-grey-custom;
+}

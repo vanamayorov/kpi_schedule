@@ -1,0 +1,15 @@
+.inner {
+    @apply pb-4 border-b-4 border-indigo-500 mb-1;
+}
+
+.img {
+    @apply mx-auto mb-3 block h-40 object-cover; 
+}
+
+.title {
+    @apply text-center text-2xl font-medium;
+}
+
+.btns_wrapper {
+    @apply flex justify-center items-center;
+}

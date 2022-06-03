@@ -1,0 +1,7 @@
+.th {
+    @apply border border-slate-600;
+}
+
+.tr {
+    @apply align-top bg-slate-100 hover:bg-white transition-colors;
+}

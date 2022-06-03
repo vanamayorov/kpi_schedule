@@ -1,0 +1,31 @@
+.root {
+    @apply table-auto w-full border-collapse text-slate-800 mb-8;
+}
+
+.wrapper {
+    @apply overflow-y-auto max-w-full;
+}
+
+.subtitle {
+    @apply text-center text-xl font-medium mb-3;
+}
+
+.tr {
+    @apply bg-slate-100 hover:bg-white transition-colors;
+}
+
+.td {
+    @apply align-top border border-slate-600 p-1 md:p-3;
+}
+
+.td_active {
+    @apply align-top border border-slate-600 p-3 bg-amber-200;
+}
+
+.label {
+    @apply p-2 border border-black rounded-md block;
+}
+
+.teacher {
+    @apply  text-black font-normal;
+}
